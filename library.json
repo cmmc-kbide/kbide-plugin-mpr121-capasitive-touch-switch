@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mpr121-capasitive-touch-switch",
+  "title": "mpr121-capasitive-touch-switch",
+  "keywords": "mpr121-capasitive-touch-switch, esp32, esp8266, arduino",
+  "description": "mpr121-capasitive-touch-switch plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mpr121-capasitive-touch-switch/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mpr121-capasitive-touch-switch/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
